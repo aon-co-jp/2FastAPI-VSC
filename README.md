@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # 2FastAPI-VSC
 
 **日本語**: [2FastAPI](https://github.com/aon-co-jp/2FastAPI)(Flask / Django → FastAPI 変換ツール。出力は [MFastAPI](https://github.com/aon-co-jp/MFastAPI) 互換)の **Visual Studio Code 拡張**。フォルダを指定すると自動スキャンし、**複数のシステム・プロジェクトを自動検出**して、変換先フォルダ(無ければ**作成してよいか質問**、または自動作成)を英語と日本語で尋ねながら変換します。
